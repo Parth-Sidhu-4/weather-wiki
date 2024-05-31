@@ -1,7 +1,5 @@
 # Weather Report Using Python
 
-#### Video Demo: <https://youtu.be/JHXvse_n3Ug>
-
 ## Description
 
 This application provides real-time weather information and a brief summary about a city. It is designed for users who want to quickly access both weather details and a brief overview of a city from a single interface. The application utilizes the OpenWeatherMap API to fetch weather data and scrapes Wikipedia to retrieve a summary of the city.
